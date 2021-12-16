@@ -200,6 +200,17 @@ ul.row {
     text-align: right;
 }
 
+.footer-address {
+    color:var(--text-color);
+}
+
+.social-link {
+    display: block;
+}
+
+.social-link svg {
+    fill: var(--text-color);
+}
 
 /* dark mode */
 
